@@ -13,5 +13,8 @@ I am currently a 2nd-year economics PhD student at Hong Kong University of Scien
 
 Research Interests
 ======
-- Applied Microeconomics: Microfinance, Education
-- Digital Economy: Platform Economics, Fintech
+- **Applied Microeconomics**: Microfinance, Education
+- **Digital Economy**: Platform Economics, Fintech
+
+
+
