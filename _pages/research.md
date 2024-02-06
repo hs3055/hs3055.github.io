@@ -18,4 +18,4 @@ redirect_from:
 <sup>**Introduction:** Higher education has a great impact on economic growth and social mobility. Highly selective colleges provide students with better skills and make them more likely to reach higher incomes in the future. There are two major types of admission policies around the world: application-based and unified exam-based. For example, in the US, students apply to colleges based on their SAT/ACT scores and related materials. While in China, college admission is based entirely on the standardized exam (Gaokao). Students use their exam scores for all colleges. This paper aims to compare the two college admission policies in terms of education equality and social mobility, to determine which policy provides more opportunities to students from low-income families.</sup>
 
 ### Cross-industry Acquisition by Digital Platforms
-<sup>with Yangguang Huang (HKUST) and Junbao Li (SJTU)</sup>
+<sup>**with Yangguang Huang (HKUST) and Junbao Li (SJTU)**</sup>
