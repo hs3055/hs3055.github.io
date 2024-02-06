@@ -14,6 +14,8 @@ Before my PhD studies, I worked as a product manager at Alibaba Group where I sp
 
 [CV](http://cct15.github.io/files/cv.pdf)
 
+Email: cchencs@connect.ust.hk
+
 Research Interests
 ======
 - **Applied Microeconomics**: Microfinance, Education
