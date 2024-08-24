@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en_HK"
-title                    : "Chutian Chen"
+title                    : "Vera Hanya Shao"
 title_separator          : "-"
-name                     : &name "Chutian Chen"
+name                     : &name "Vera Hanya Shao"
 description              : &description ""
-url                      : https://cct15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hs3055.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/cct15/cct15.github.io/"
+repository               : "https://github.com/hs3055/hs3055.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chutian Chen"
+  name             : "Vera Hanya Shao"
   avatar           : "profile.jpeg"
-  bio              : "2nd-year Econ Phd Student at HKUST"
-  location         : "Hong Kong"
+  bio              : "Licensed Mental Health Counselor"
+  location         : "New York"
   employer         :
   pubmed           : #""
   googlescholar    : #""
-  email            : "cchencs@connect.ust.hk"
+  email            : "hs3055@tc.columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"https://github.com/cct15"
+  github           : #"https://github.com/hs3055"
   google_plus      :
   keybase          :
   instagram        :
