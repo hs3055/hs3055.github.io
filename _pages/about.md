@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 2nd-year economics PhD student at Hong Kong University of Science and Technology. My research interests are centered around the fields of applied microeconomics and digital economy, with a focus on microfinance. 
+I am currently a Licensed Mental Health Counselor at a Private Practice located in New York City. I focus on treating a variety of mental health diagnoses using Evidence-Based Therapy. 
 
-Before my PhD studies, I worked as a product manager at Alibaba Group where I specialized in optimizing recommendation systems. Additionally, I obtained a Master's degree in data science from Fu Foundation Engineering School, Columbia University, with a focus on machine learning.
+Besides clinical practice, I supervise limited permit holders in Mental Health Counseling...
 
-[CV](http://cct15.github.io/files/cv.pdf)
+Before my current commitments, I obtained a Bachelor's degree in Applied Psychology from New York University, and two Master's degrees in Psychological Counseling from Teachers College, Columbia University. 
 
-Email: [cchencs@connect.ust.hk](cchencs@connect.ust.hk)
+[Treatment Plan Template](http://hs3055.github.io/files/sampletreatmentplan.pdf)
+
+Email: [hs3055@tc.columbia.edu](hs3055@tc.columbia.edu)
 
 Research Interests
 ======
