@@ -10,18 +10,16 @@ redirect_from:
 
 I am currently a Licensed Mental Health Counselor at a Private Practice located in New York City. I focus on treating a variety of mental health diagnoses using Evidence-Based Therapy. 
 
-Besides clinical practice, I supervise limited permit holders in Mental Health Counseling...
+Besides my clinical practice, I supervise and mentor limited permit holders in Mental Health Counseling, I explore the relationship between mental health and automated systems, focusing on how technology like AI and digital tools can impact mental health practices, and I advocate for the wellness of Asian American mental health.
 
 Before my current commitments, I obtained a Bachelor's degree in Applied Psychology from New York University, and two Master's degrees in Psychological Counseling from Teachers College, Columbia University. 
 
-[Treatment Plan Template](http://hs3055.github.io/files/sampletreatmentplan.pdf)
+I’ve created something really cool—a LaTeX file for treatment planning that mimics the format of Wiley’s treatment plans. This allows you to generate your own treatment plans with a professional, polished look.
+
+[Treatment Plan Template](http://hs3055.github.io/files/Treatment_Plan_Template.pdf)
 
 Email: [hs3055@tc.columbia.edu](hs3055@tc.columbia.edu)
 
-Research Interests
-======
-- **Applied Microeconomics**: Microfinance, Education
-- **Digital Economy**: Platform Economics, Fintech
 
 
 
