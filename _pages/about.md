@@ -16,7 +16,8 @@ Before my current commitments, I obtained a Bachelor's degree in Applied Psychol
 
 I’ve created something really cool—a LaTeX file for treatment planning that mimics the format of Wiley’s treatment plans. This allows you to generate your own treatment plans with a professional, polished look.
 
-[Treatment Plan Template](http://hs3055.github.io/files/Treatment_Plan_Template.pdf)
+[Treatment Plan Template PDF](http://hs3055.github.io/files/Treatment_Plan_Template.pdf)
+[Treatment Plan Template LaTeX](http://hs3055.github.io/files/main(1).tex)
 
 Email: [hs3055@tc.columbia.edu](hs3055@tc.columbia.edu)
 
