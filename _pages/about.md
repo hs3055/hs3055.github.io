@@ -18,7 +18,7 @@ I’ve created something really cool—a LaTeX file for treatment planning that 
 
 [Treatment Plan Template PDF](http://hs3055.github.io/files/Treatment_Plan_Template.pdf)
 
-[Treatment Plan Template LaTeX](http://hs3055.github.io/files/main(1).tex)
+[Treatment Plan Template LaTeX](http://hs3055.github.io/files/treatmentplantemplate.tex)
 
 
 
